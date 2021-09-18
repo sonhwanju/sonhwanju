@@ -4,4 +4,4 @@
 ### hwanjuson@gmail.com
 
 ## Discord
-### 닉넴할거없다#9999
+### 닉넴할거없다#7697
