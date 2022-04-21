@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=D1DDD8&height=200&text=WELCOME!&fontSize=60&fontAlign=40&fontAlignY=25&fontColor=1D6A96&desc=sonhwanju's%20Github%20Profile!&descSize=30&descAlign=60&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=WELCOME!&fontSize=60&fontAlign=40&fontAlignY=25&desc=sonhwanju's%20Github%20Profile!&descSize=30&descAlign=60&descAlignY=50)
 
 ✨Information✨
 ---------------
@@ -28,3 +28,5 @@
 ---------------
 > <a href="https://www.facebook.com/profile.php?id=100007904865117" target="_blank"><img src="https://img.shields.io/badge/FaceBook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 > <a href="https://cdn.discordapp.com/attachments/778523191676370974/966504610858696775/unknown.png" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
+
+![sonhwanju's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonhwanju&show_icons=true&theme=tokyonight)
