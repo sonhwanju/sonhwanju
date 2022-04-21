@@ -28,4 +28,8 @@
 ---------------
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonhwanju&count_bg=%23626262&title_bg=%23FFBDFC&icon=&icon_color=%23A8A8A8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![sonhwanju's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonhwanju&show_icons=true&theme=tokyonight)
+---------------
+![sonhwanju's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonhwanju&show_icons=true&theme=dark)
+---------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonhwanju&layout=compact)](https://github.com/sonhwanju/github-readme-stats)
+---------------
