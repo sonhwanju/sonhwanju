@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=WELCOME!&fontSize=60&fontAlign=40&fontAlignY=25&desc=sonhwanju's%20Github%20Profile!&descSize=30&descAlign=60&descAlignY=50)
 
-<h2 align="center">경기게임마이스터고등학교에 재학중인 손환주입니다.</h2>
+<h2 align="center">경기게임마이스터고등학교 1기 졸업생 손환주입니다.</h2>
 
 💻Tech Stack💻
 ---------
